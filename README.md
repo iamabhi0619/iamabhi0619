@@ -1,5 +1,13 @@
-# 💫 About Me:
-Projects<br>Web devlopment<br>DSA and web Devlopment<br>DSA and Web Devlopment<br>Any Thing<br>
+## 💫 About Me:
+
+Hi, I'm Abhishek, a passionate B.Tech CSE student with strong expertise in the MERN stack and Data Structures & Algorithms (DSA). I have built several applications and robust tech solutions, including:
+
+- **One-Time QR Ticket System**: Developed a secure event registration system that generates unique QR codes, with confirmation tickets sent directly to attendees.
+- **Complete Event Management System**: Created an end-to-end solution for event management, from registration and student entry to the successful completion of the event.
+- **ZENVEST Website**: Designed and built the official website for ZENVEST, a student organization focused on financial education and investment.
+
+I'm always eager to explore new technologies and solve challenging problems through code.
+
 
 
 ## 🌐 Socials:
