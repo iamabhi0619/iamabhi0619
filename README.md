@@ -1,21 +1,87 @@
-## 💫 About Me:
+# Hi, I'm Abhishek Kumar Mandal
 
-Hi, I'm Abhishek, a passionate B.Tech CSE student with strong expertise in the MERN stack and Data Structures & Algorithms (DSA). I have built several applications and robust tech solutions, including:
+**Full Stack Developer (MERN)** | **B.Tech CSE @ Lovely Professional University**  
+Building scalable, real-world web apps and solving complex problems with clean code and modern tech.
 
-- **One-Time QR Ticket System**: Developed a secure event registration system that generates unique QR codes, with confirmation tickets sent directly to attendees.
-- **Complete Event Management System**: Created an end-to-end solution for event management, from registration and student entry to the successful completion of the event.
-- **ZENVEST Website**: Designed and built the official website for ZENVEST, a student organization focused on financial education and investment.
+---
 
-I'm always eager to explore new technologies and solve challenging problems through code.
+### About Me
+- Passionate **Full Stack Developer** skilled in **Next.js, Node.js, MongoDB, Redis, and TypeScript**.  
+- Strong foundation in **Data Structures & Algorithms, OOPs, Computer Networks, and Operating Systems**.  
+- Experienced with **server hosting, cloud deployment, and configuration** on **Oracle VM, Render, and Vercel**.  
+- Former **CTO & Co-CEO at Zenvest**, where I led a 10-member tech team and hosted **3+ paid events**.  
+- Completed a **Full Stack Internship at Oxytrium Dynamics Pvt. Ltd.**, working on **Next.js** and **REST APIs**.  
+- Always learning, building, and contributing to impactful digital products.  
+
+---
+
+### 💻 Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN_UI-black?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-1E90FF?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Oracle VM](https://img.shields.io/badge/Oracle_VM-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### Core CS Concepts
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-008000?style=for-the-badge)
+![OOPs](https://img.shields.io/badge/OOPs-007ACC?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Computer_Networks-4682B4?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-6A5ACD?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-FF8C00?style=for-the-badge)
 
 
+---
 
-## 🌐 Socials:
+### Featured Projects
+
+#### [Orgatick](https://orgatick.in)
+A complete **event management platform** with registration, digital ticketing, check-in, and analytics.  
+Tech Stack: `MERN`, `Redis`, `Cloudflare`, `Plausible Analytics`  
+> Real users. Real events. Real impact.
+
+#### [Climora](https://climora.iamabhi.dev)
+An AI-powered **weather app** with real-time updates, animated visuals, and chat-based insights.  
+Tech Stack: `Next.js`, `TypeScript`, `Tailwind`, `Zustand`, `Axios`
+
+#### [Orbit API - Unified Backend System](https://api.iamabhi.dev)
+Centralized backend serving multiple projects, designed for **modularity, scalability, and reusability.**  
+Tech Stack: `Node.js`, `Express.js`, `MongoDB`
+
+---
+
+### Coding & Problem Solving
+- Solved **400+ DSA problems** across platforms like **LeetCode** and **GFG**.  
+- Constantly improving logic, optimization, and problem-solving skills.  
+
+
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamabhi0619) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kumar._.abhishek) 
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
+
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamabhi0619&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamabhi0619&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhi0619&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
